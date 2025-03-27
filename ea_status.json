@@ -1,3 +1,4 @@
 {
-  "disable": false
+  "disable_all": false,
+  "disabled_pairs": ["EURUSD(£)", "GBPJPY(£)"]
 }
